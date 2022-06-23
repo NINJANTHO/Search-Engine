@@ -14,6 +14,7 @@ LEAKED BY >Kirua'KNG#1337
 
 import discord
 from discord.ext import commands
+from discord.ext.commands import has_permissions, CheckFailure, CommandNotFound
 import datetime
 import requests
 from urllib import parse, request
@@ -25,7 +26,7 @@ from colorama import Fore, init
 import os
 from os import system
 import pytz
-from discord.ext.commands import has_permissions, CheckFailure, CommandNotFound
+
 bot = commands.Bot(command_prefix='?', description=">Kirua'KNG#1337 | SearchEngine")
 
 bot.remove_command("help")
