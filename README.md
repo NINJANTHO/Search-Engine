@@ -1,12 +1,38 @@
-# Search-Engine
-Leaked of Search Engine
+<h1 align="center">
+    Search Engine
+</h1>
 
-1. Met ton token dans main_2.py entre les guillemets de la dernière ligne
-bot.run('TON TOKEN')
+<p align="center">
+	Search Engine is a bot that allows you to search for a nickname in databases.
+</p>
 
-2. Met l'id du rôle pour les clients, du rôle du owner, et de celui des utilisateurs blacklists
-ROLEIDCLIENT = "LE ROLE DU CLIENT"
-ROLEOWNERID = "LE ROLE DU OWNER"
-ROLEBLACKLISTUSER = "LE ROLE DES UTILISATEURS BLACKLISTS"
+<p align="center">
+	<a href="https://deno.land" target="_blank">
+    	<img src="https://img.shields.io/badge/Version-1.0.0-7DCDE3?style=for-the-badge" alt="Version">
+</p>
+	
 
-3. Lance le script en faisant `python main_2.py`
+
+# Setup
+	
+You can setup `Search Engine` by simply opening your terminal/console and pasting in the following command:
+```
+cd <répertoire du dossier>
+```
+After that go in `main_2.py` and complete with your token, id of the roles etc.
+
+After you've done all that, you can finally run Search Engine by typing in the following command:
+```
+python main_2.py
+```
+
+
+# Credits
+```
+Leak by github.com/NINJANTHO
+```
+
+### Contribution;
+###### All contributions are accepted, just open an issue / pull request and i will get back to you as soon as i can.
+###### If you want to help me you can just star the repo and fork it.
+ 
