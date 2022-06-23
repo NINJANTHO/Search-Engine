@@ -1,7 +1,7 @@
 # Search-Engine
 Leaked of Search Engine
 
-1. Met ton token dans main_2.py entre les guillemets de la dernièreligne
+1. Met ton token dans main_2.py entre les guillemets de la dernière ligne
 bot.run('TON TOKEN')
 
 2. Met l'id du rôle pour les clients, du rôle du owner, et de celui des utilisateurs blacklists
